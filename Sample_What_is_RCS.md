@@ -1,7 +1,4 @@
 # Writing Sample 
-By: Daniel Nicholson
-
---- 
 
 ## Cover sheet
 **1.** **How much of the content did you write? Choose one:** 

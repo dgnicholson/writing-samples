@@ -1,7 +1,4 @@
 # Exercise #2 [option 2] - How to play tic-tac-toe
-By: Daniel Nicholson
-
---- 
 
 ## How to play tic-tac-toe
 

@@ -1,7 +1,4 @@
 # Exercise #1 - findNeedles
-By: Daniel Nicholson
-
----
 
 ## findNeedles
 
@@ -13,8 +10,6 @@ Counts the number of times that each element in the `needles` string array appea
 |---|---|
 | needles | **String (Array)**: The search string. This array cannot contain more than five elements. |
 | haystack  | **String**: The string being searched.  |
-
----
 
 ## Code suggestions 
 
