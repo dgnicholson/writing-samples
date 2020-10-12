@@ -1,17 +1,17 @@
 # Writing Sample 
 
 ## Cover sheet
-**1.** **How much of the content did you write? Choose one:** 
+**1.** **How much of the content did you write?** 
 
 I wrote all of it and created the diagram. 
 
 **2.** **Does the document represent your original writing, or is it existing content that you revised?**
 
-This sample represents my original writing. It’s available online as well: https://sigmastcomms.com/what-is-rcs/ 
+This sample represents my original writing. It’s available online as well: https://sigmastcomms.com/what-is-rcs/. 
 
 **3.** **Where did you get the information to write the document?**
 
-The information was sourced from my own knowledge and that of our executive team. 
+The information was sourced from my knowledge and that of our executive team. 
 
 **4.** **Was the document edited by other people for grammar and style? Choose one:**
 **‣ No ‣ Light editing ‣ Moderate editing ‣ Heavy editing ‣ Other (explain).**
@@ -25,11 +25,11 @@ N/A
 
 **6.** **Was a company style guide used to write this document?** 
 
-Yes. The style guide is based off of the Microsoft Manual of Style with some customizations. 
+Yes. The style guide is based on the Microsoft Manual of Style with some customizations. 
 
 **7.** **Provide any additional useful context for the sample, such as deadlines, achievements, etc.**
 
-This was requested to add to our website to provide a quick conceptual overview of what RCS (Rich Communication Services) is. It’s aimed at both technical and general audiences who are not familiar with RCS. 
+This was requested for the company website. The purpose is to provide a quick conceptual overview of what RCS (Rich Communication Services) is and how it can impact users. It’s aimed at both technical and general audiences who are not familiar with RCS. 
  
 **8.** **Was this document part of a larger documentation set?** 
 
