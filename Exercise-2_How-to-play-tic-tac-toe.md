@@ -7,7 +7,7 @@ Tic-tac-toe is a two-player strategy game that can be played in just a few minut
 ### Set up
 A game of tic-tac-toe is set up by first drawing a 3x3 grid. Next, each player must choose either the `X` character or the `O` character. 
 
-> **TIP**: If players can't decide who gets to be what character, try flipping a coin.
+> **Tip**: If players can't decide who gets to be what character, they can flip a coin.
 
 ### Gameplay
 Player `X` always goes first and draws their character inside any cell in the 3x3 grid. Players then alternate turns until there is a winner or the grid is full—whichever comes first. 
