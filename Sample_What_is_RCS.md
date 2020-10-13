@@ -7,7 +7,7 @@ I wrote all of it and created the diagram.
 
 **2.** **Does the document represent your original writing, or is it existing content that you revised?**
 
-This sample represents my original writing. It’s available online as well: https://sigmastcomms.com/what-is-rcs/. 
+This sample represents my original writing.
 
 **3.** **Where did you get the information to write the document?**
 
@@ -35,7 +35,7 @@ This was requested for the company website. The purpose is to provide a quick co
 
 No.
 
---- 
+<div style="page-break-after: always;"></div>
 
 ## What is RCS?
 
@@ -47,11 +47,11 @@ Rich Communication Services (RCS) is the evolution of text messaging beyond SMS.
 
 ### A text messaging standard
 
-RCS isn’t another messaging app, it’s a technical standard—a kind of blueprint for organizations to follow. The GSM Association ([GSMA](https://www.gsma.com/)), a trade body that represents carriers, has been developing this standard in collaboration with the mobile industry. From the outset, the main goal was to design a replacement for SMS with the same wide-interoperability between wireless networks, but with more user features.
+RCS isn’t another messaging app, it’s a technical standard—a kind of blueprint for organizations to follow. The GSM Association (GSMA), a trade body that represents carriers, has been developing this standard in collaboration with the mobile industry. From the outset, the main goal was to design a replacement for SMS with the same wide-interoperability between wireless networks, but with more user features.
 
 This technical standard has gone through several iterations, but what is being developed and deployed today is called the “Universal Profile” specification. This defines the advanced messaging features of RCS, as well as how service providers, mobile network operations, device manufacturers, and app developers can support it.
 
-The first version of Universal Profile was released in 2016, which was followed the next year by [Universal Profile 2.0](https://www.gsma.com/futurenetworks/rcs/universal-profile/). This more recent version of the specification includes standards for implementing everything from chatbots to expanded functionality using plugins.
+The first version of Universal Profile was released in 2016, which was followed the next year by Universal Profile 2.0. This more recent version of the specification includes standards for implementing everything from chatbots to expanded functionality using plugins.
 
 ### Modern messaging features
 
@@ -73,11 +73,13 @@ The new features that RCS offers bring carrier messaging to the modern day, whil
 
 As part of Samsung, SigMast has developed the Samsung RCS Solution. This follows the RCS standards and include all the parts needed for an operator to deploy RCS.
 
-[Samsung RCS AS](https://sigmastcomms.com/products/samsung-rcs-as/) is the core RCS messaging service that operators can deploy. It has been designed from the ground up to follow the RCS standards and is accredited by the GSMA. For carriers, this service allows them to deploy RCS without having to devote time and money into creating their own solution from scratch.
+Samsung RCS AS is the core RCS messaging service that operators can deploy. It has been designed from the ground up to follow the RCS standards and is accredited by the GSMA. For carriers, this service allows them to deploy RCS without having to devote time and money into creating their own solution from scratch.
 
-[Samsung RCS Hub](https://sigmastcomms.com/products/samsung-rcs-hub/) is another piece of the solution. This component facilitates connections between carriers that use Samsung RCS AS, as well as those that use their own or another RCS service provider. This allows messages from any RCS supported device to reach another when they are on separate networks or use different RCS service providers.
+Samsung RCS Hub is another piece of the solution. This component facilitates connections between carriers that use Samsung RCS AS, as well as those that use their own or another RCS service provider. This allows messages from any RCS supported device to reach another when they are on separate networks or use different RCS service providers.
 
-![RCS Ecosystem](https://github.com/dgnicholson/Google-Samples/blob/master/images/RCS_Ecosystem.png)
+
+![RCS Ecosystem](https://raw.githubusercontent.com/dgnicholson/Google-Samples/master/images/RCS_Ecosystem.png)
+
 
 A third piece that makes RCS work is the messaging client (app) and the device itself. Almost all Android devices sold today and both the major messaging apps, Samsung Messages and Google Messages, support RCS standards. This support allows subscribers who may use different devices or clients to message each other using RCS.
 
