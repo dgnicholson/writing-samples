@@ -20,7 +20,7 @@ To win a game of tic-tac-toe, a player needs to draw three of their chosen chara
 |   | **X** |   |
 |   | **O** | **X** |
 
-The game is a draw if the grid is full and no player could create a continuous line.
+The game is a draw if the grid is full and no player was able to create a continuous line.
 
 
  
