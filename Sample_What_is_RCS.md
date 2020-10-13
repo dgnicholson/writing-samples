@@ -67,9 +67,7 @@ RCS includes the modern and forward-looking features that SMS can’t. These fea
 
 The new features that RCS offers bring carrier messaging to the modern day, while its standards lay a path for the future. Unlike other text messaging solutions, the standards-based nature of RCS allows it to operate across networks, devices, and messaging apps. The end goal of this effort is that, just like SMS, you won’t have to think about if the recipient has the right app installed—it will simply work.
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
 
 ### The Samsung RCS Solution
 
@@ -83,9 +81,7 @@ As part of Samsung, SigMast has developed the Samsung RCS Solution. This follows
 
 A third piece that makes RCS work is the messaging client (app) and the device itself. Almost all Android devices sold today and both the major messaging apps, Samsung Messages and Google Messages, support RCS standards. This support allows subscribers who may use different devices or clients to message each other using RCS.
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+<div style="page-break-after: always;"></div>
 
 ### Using RCS
 
