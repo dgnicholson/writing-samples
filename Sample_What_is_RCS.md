@@ -29,7 +29,7 @@ Yes. The style guide is based on the Microsoft Manual of Style with some customi
 
 **7.** **Provide any additional useful context for the sample, such as deadlines, achievements, etc.**
 
-This was requested for the company website. The purpose is to provide a quick conceptual overview of what RCS (Rich Communication Services) is and how it can impact users. It’s aimed at both technical and general audiences who are not familiar with RCS. 
+This was requested for [a blog post on the company website](https://sigmastcomms.com/what-is-rcs/). The purpose is to provide a quick conceptual overview of what RCS (Rich Communication Services) is and how it can impact users. It’s aimed at both technical and general audiences who are not familiar with RCS.
  
 **8.** **Was this document part of a larger documentation set?** 
 
