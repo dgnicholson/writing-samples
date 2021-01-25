@@ -1,42 +1,8 @@
-# Writing Sample 
-
-## Cover sheet
-**1.** **How much of the content did you write?** 
-
-I wrote all of it and created the diagram. 
-
-**2.** **Does the document represent your original writing, or is it existing content that you revised?**
-
-This sample represents my original writing.
-
-**3.** **Where did you get the information to write the document?**
-
-The information was sourced from my knowledge and that of our executive team. 
-
-**4.** **Was the document edited by other people for grammar and style? Choose one:**
-**‣ No ‣ Light editing ‣ Moderate editing ‣ Heavy editing ‣ Other (explain).**
-**If so, who edited the document?** 
-
-There was light editing by our executive team for accuracy and tone. 
-
-**5.** **Share how you obtained any code samples.** 
-
-N/A
-
-**6.** **Was a company style guide used to write this document?** 
-
-Yes. The style guide is based on the Microsoft Manual of Style with some customizations. 
-
-**7.** **Provide any additional useful context for the sample, such as deadlines, achievements, etc.**
+# Technical Product Overview
 
 This was requested for [a blog post on the company website](https://sigmastcomms.com/what-is-rcs/). The purpose is to provide a quick conceptual overview of what RCS (Rich Communication Services) is and how it can impact users. It’s aimed at both technical and general audiences who are not familiar with RCS.
- 
-**8.** **Was this document part of a larger documentation set?** 
 
-No.
-
-<div style="page-break-after: always;"></div>
-
+---
 ## What is RCS?
 
 While SMS/MMS popularized text messaging and continues to be a reliable means of communication, it has not evolved much since its wide adoption in the early 1990s. Even when smartphones were introduced, SMS functionality was left largely unchanged with 160-character limits and simplified messaging features. With its limitations clearer now than ever, RCS picks up where SMS leaves off.

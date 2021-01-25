@@ -1,4 +1,4 @@
-# Exercise #1 - findNeedles
+# Native library API reference
 
 ## findNeedles
 
