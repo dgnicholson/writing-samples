@@ -78,7 +78,7 @@ Samsung RCS AS is the core RCS messaging service that operators can deploy. It h
 Samsung RCS Hub is another piece of the solution. This component facilitates connections between carriers that use Samsung RCS AS, as well as those that use their own or another RCS service provider. This allows messages from any RCS supported device to reach another when they are on separate networks or use different RCS service providers.
 
 
-![RCS Ecosystem](https://raw.githubusercontent.com/dgnicholson/Google-Samples/master/images/RCS_Ecosystem.png)
+![RCS Ecosystem](https://github.com/dgnicholson/writing-samples/blob/master/images/RCS_Ecosystem.png)
 
 
 A third piece that makes RCS work is the messaging client (app) and the device itself. Almost all Android devices sold today and both the major messaging apps, Samsung Messages and Google Messages, support RCS standards. This support allows subscribers who may use different devices or clients to message each other using RCS.
