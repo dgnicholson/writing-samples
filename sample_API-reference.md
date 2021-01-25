@@ -1,11 +1,11 @@
 # COVID-19 API
-Fetches data about COVID-19 from around the world, including the number of cases that are confirmed, critical, and total deaths. This data refreshes every 15 minutes. 
+Provides data about COVID-19 from around the world, including the number of cases that are confirmed, critical cases, and total deaths. This data refreshes every 15 minutes. 
 
 
-## COVID-19 Numbers by Named Country
+## COVID-19 numbers by country name
 `GET` /country/**{country}**
 
-Provides the latest data about COVID-19 for a named country. 
+Fetches the latest data about COVID-19 for a named country. 
 
 
 ### Request parameters
@@ -77,7 +77,7 @@ curl -L -X GET 'https://covid-19-data.p.rapidapi.com/country/code/?code=CA' \
 ## COVID-19 numbers for all countries
 `GET` /country/all/
 
-Provides the latest COVID-19 data for each country. 
+Provides the latest COVID-19 data for each country in alphabetical order. 
 
 ### Request parameters
 
